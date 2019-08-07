@@ -4,7 +4,7 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const { interface , bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'picture west maple inmate govern basket provide absurd tomorrow service exchange situate',
+    'your metamask mnemonic phrase here',
     'https://rinkeby.infura.io/v3/bb040abf2e0140bb9885ae3d83c37238'
 );
 
